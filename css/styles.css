@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** Header **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-image {
+  background: url('../images/restaurant-logo_large.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
+
+#star-k-image {
+  background: url('../images/star-k-logo.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
+
+#initial_image {
+  background: url('../images/IMG_20220819_081736.jpg') no-repeat;
+  width: 800px;
+  height: 800px;
+  margin: 10px 15px 10px 0;
+}
+
+#another_image {
+  background: url('../images/IMG_20220819_081746.jpg') no-repeat;
+  width: 800px;
+  height: 800px;
+  margin: 10px 15px 10px 0;
+}
+
+#still_further_image {
+  background: url('../images/IMG_20220819_081809.jpg') no-repeat;
+  width: 800px;
+  height: 800px;
+  margin: 10px 15px 10px 0;
+}
